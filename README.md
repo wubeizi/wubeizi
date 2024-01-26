@@ -1,4 +1,5 @@
-### Hi there 👋
+![wubeizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wubeizi&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wubeizi&theme=transparent&layout=compact)
 
 <!--
 **wubeizi/wubeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
