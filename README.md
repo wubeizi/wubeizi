@@ -1,6 +1,3 @@
-![wubeizi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wubeizi&show_icons=true&theme=transparent&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wubeizi&theme=transparent&layout=donut)</br>
-
 <!--
 **wubeizi/wubeizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +14,6 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/wubeizi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wubeizi&show_icons=true&theme=transparent&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubeizi&theme=transparent&layout=donut" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubeizi&theme=transparent&layout=compact" />
 </a>
 </br>
