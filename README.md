@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/wubeizi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wubeizi&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wubeizi&show_icons=true&theme=transparent&count_private=true&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wubeizi&theme=transparent&layout=compact" />
 </a>
 </br>
